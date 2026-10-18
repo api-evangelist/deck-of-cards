@@ -40,7 +40,8 @@ apis:
   - name: Deck of Cards
     description: "Deck of Cards"
     humanURL: http://deckofcardsapi.com/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
